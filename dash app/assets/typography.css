@@ -1,0 +1,23 @@
+body {
+    font-family: sans-serif;
+    background-color: black;
+}
+h1, h2, h3, h4, h5, h6 {
+    color: indianred;
+        padding-left: 1em;
+    padding-right: 1em;
+}
+P
+{
+    padding-left: 1em;
+    padding-right: 1em;
+    color: white;
+    text-align: left;
+}
+A{
+    text-decoration: none;
+    color: indianred;
+}
+Img{
+    align-items: center;
+}
